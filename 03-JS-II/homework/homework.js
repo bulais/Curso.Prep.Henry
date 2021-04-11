@@ -178,7 +178,7 @@ function esPrimo(numero) {
   else {
     return false;
   }
-}
+} 
 
 function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
